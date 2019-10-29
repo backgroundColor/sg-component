@@ -5,7 +5,7 @@ export default {
   },
   template: `
     <div>
-      <input type="text" placeholder="test-component" />
+      <input type="text" placeholder="test-component" v-fa />
     </div>
   `
 }
